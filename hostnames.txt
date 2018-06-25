@@ -1,0 +1,4 @@
+sudo scutil --set ComputerName "<enter-a-host-name-you-want>"
+sudo scutil --set HostName "<enter-a-host-name-you-want>"
+sudo scutil --set LocalHostName "<enter-a-host-name-you-want>"
+hostname -f
